@@ -6,6 +6,8 @@
         {
             System.Console.WriteLine("Hello World!");
             System.Console.WriteLine("First Dot NET program");
+
+            Person person1 = new Person();
         }
     }
 }
